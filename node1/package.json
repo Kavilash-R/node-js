@@ -1,0 +1,20 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "kavi",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
