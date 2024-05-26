@@ -337,7 +337,7 @@ File paths
 String paths
 File URL paths
 Platform-specific considerations
-Buffer paths
+Buffer path
 Per-drive working directories on Windows
 File descriptors
 Threadpool usage
